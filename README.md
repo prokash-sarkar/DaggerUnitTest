@@ -10,7 +10,7 @@ If you have Dagger in your project but never used it for testing, it’s high ti
 
 ### Article Link
 
-To read the full article, please check [here](https://prokash-sarkar.medium.com/).
+To read the full article, please check [here](https://prokash-sarkar.medium.com/unit-testing-with-dagger-2-brewing-a-potion-with-fakes-mocks-and-custom-rules-in-android-7f0ab7b22cb).
 
 ### Architecture
 
